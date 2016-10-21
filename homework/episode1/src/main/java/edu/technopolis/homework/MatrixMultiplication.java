@@ -7,6 +7,8 @@ package edu.technopolis.homework;
  */
 public class MatrixMultiplication {
     public static void main(String... args) {
-        System.out.println("HelloWorld");
+        System.out.println("HelloWorld!!!");
+        System.out.println("HelloWorld!!!");
+
     }
 }
