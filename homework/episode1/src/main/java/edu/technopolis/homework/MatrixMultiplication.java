@@ -26,8 +26,7 @@ public class MatrixMultiplication {
             System.out.println("Матрицы невозможно перемножить!");
             System.exit(0);
         }
-        int lengthMatrixNM = n * m;
-        int lengthMatrixXY = x * y;
+
         int[][] matrixNM = new int[n][m];
         int[][] matrixXY = new int[x][y];
         for (int i = 0; i < n; i++){
